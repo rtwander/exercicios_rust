@@ -1,0 +1,1 @@
+Repositório pessoal de exercícios para praticar programação com rust.
