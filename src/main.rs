@@ -1,6 +1,6 @@
-mod biblioteca;
-use biblioteca::exercicio1::bom_dia;
+mod atividades;
+use atividades::exercicio1::saudacao;
 
 fn main() {
-    bom_dia();
+    saudacao();
 }
