@@ -6,6 +6,7 @@ use std::io;
 pub fn saudacao() {
     let greeting = "Olá,";
     let mut nome = String::new(); // Varíavel mutável para receber a entrada
+    println!("O exercício1 é um programa de saudação.");
     println!("Me informe seu nome e irei cumprimentá-lo.");
     
     io::stdin().read_line(&mut nome).unwrap(); // Faz a leitura da entrada
